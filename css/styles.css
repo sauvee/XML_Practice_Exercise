@@ -1,0 +1,87 @@
+body{
+    padding-top:50px;
+}
+
+
+
+.bg-blue{
+    background: #56A0D3;
+    color:white;
+    border-radius: 15px;
+
+}
+
+#scrollUp {
+  bottom: 20px;
+  right: 20px;
+  width: 38px; /* Width of image */
+  height: 38px; /* Height of image */
+  background: url(../../img/top.png) no-repeat;
+}
+
+.floatRight{
+    float:right;
+    border: 1px solid black;
+    margin-top:20px;
+    
+}
+
+.floatLeft{
+    float:left;
+    border: 1px solid black;
+    display: inline;
+    
+}
+
+.imageWall {
+    float:left;
+    border: 1px solid black;
+    display: inline;
+}
+
+.wallMargin {
+        margin-bottom:50px;
+}
+.characters p {
+	margin: 1em 0 0 0;
+	padding: 0px;
+}
+
+
+ul.characters {
+	list-style: none;
+	margin-top:0px;
+	margin-left: 0;
+	padding-left: 1em;
+	padding-bottom:20px;
+	font-size:125%;
+	padding-top: 20px;
+	
+	
+	
+}
+.sideTitle {
+    text-align:center;
+    margin-bottom:0;
+    
+}
+
+li.characters {
+    border-bottom: 1px dotted #666;
+    padding-top:10px;
+    padding-bottom:10px;
+
+
+}
+
+.white {
+    color:white;
+}
+
+.anchor {
+    padding-top:70px;
+    margin-top:-70px;
+}
+.biorole {
+    border-bottom: 1px dotted #666;
+}
